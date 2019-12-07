@@ -6,6 +6,10 @@ a. Documented procedures in learning netCDF in R
 
 http://geog.uoregon.edu/bartlein/courses/geog490/week04-netCDF.html#reading-restructuring-and-writing-netcdf-files-in-r
 
+or 
+
+http://geog.uoregon.edu/bartlein/courses/geog490/week04-netCDF.html
+
 b. Youtube video in handling the command script and console (synchronized management)
 
 https://www.youtube.com/watch?v=lVKMsaWju8w
