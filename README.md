@@ -41,3 +41,5 @@ Extents
 https://stackoverflow.com/questions/45406628/changing-the-raster-spatial-extent-in-r
 
 https://gis.stackexchange.com/questions/64695/setting-extent-and-geographic-projection-in-r
+
+https://stackoverflow.com/questions/16265907/how-to-convert-shp-file-into-csv-in-r
