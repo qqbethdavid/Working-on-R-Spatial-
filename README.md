@@ -34,3 +34,8 @@ https://stackoverflow.com/questions/45064450/converting-a-raster-to-a-csv-in-r
 f. head, tail functions
 
 http://rfunction.com/archives/699
+
+
+Extents
+
+https://stackoverflow.com/questions/45406628/changing-the-raster-spatial-extent-in-r
