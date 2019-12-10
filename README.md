@@ -39,3 +39,5 @@ http://rfunction.com/archives/699
 Extents
 
 https://stackoverflow.com/questions/45406628/changing-the-raster-spatial-extent-in-r
+
+https://gis.stackexchange.com/questions/64695/setting-extent-and-geographic-projection-in-r
